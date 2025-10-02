@@ -1,4 +1,4 @@
-# 📘 **Day-4: Azure Storage Services – Study Points**
+# 📘 **Day-4: Azure Storage Services**
 
 1. **Azure Blob Storage**
 
