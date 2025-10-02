@@ -1,4 +1,3 @@
-```markdown
 # 📌 **Core Azure Services to Study**
 
 ### 1️⃣ **Compute**
