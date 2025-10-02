@@ -1,6 +1,4 @@
-# Azure DevOps
-
-# 📌 **Core Azure Services to Study (DevOps + Cloud Engineer Focus)**
+# 📌 **Core Azure Services to Study**
 
 ### 1️⃣ **Compute**
 
